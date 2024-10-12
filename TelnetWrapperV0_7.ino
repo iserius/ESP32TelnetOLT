@@ -281,7 +281,7 @@ void handleRoot() {
   <div id="loginForm">
     <input type="text" id="serverAddress" placeholder="Server Address" value="10.10.10.3">
     <input type="text" id="username" placeholder="Username" value="admin">
-    <input type="password" id="password" placeholder="Password" value="chArlize24">
+    <input type="password" id="password" placeholder="Password" value="YourTelnetPassword">
     <button id="autoLoginBtn" class="preset-button">Login</button>
     <button id="disconnectBtn" class="preset-button">Disconnect</button>
     <button id="configTerminalBtn" class="preset-button">Config Terminal</button>
