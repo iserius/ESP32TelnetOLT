@@ -9,18 +9,26 @@ with 8 custom preset command that can save in EEPROM
       - v0.5  - add OTA function
       - v0.6  - added status bar header
       - v0.7  - add EEPROM save function
+      - v0.8  - add ONU config script
+		- add editable auto config script
+		- fix long value result
+		- status indicator still not working
+		- if preset button is gone, preset buttton get wrong EEPROM address so it not showe,
+		make sure erase all flash / EEPROM and generate new config file
+  		- fix .replace() calls to use a global regular expression
+		- update Status time , heap, temperature, Wifi Signal, Voltage
+		- v0.8z dark themes      
+		- add simple login page
 
-  ToDo : automatic ONU setting 
+ 
 
-<img width="804" alt="Screenshot 2024-10-12 at 13 46 49" src="https://github.com/user-attachments/assets/9313b430-d0e9-4049-a575-53ec2e9335a2">
+<img width="861" alt="Screenshot 2024-10-14 at 18 13 18" src="https://github.com/user-attachments/assets/251b92bf-3a9d-429d-91db-714c1390021e">
 
 double click custom preset button to change its Name
 
-<img width="640" alt="Screenshot 2024-10-12 at 14 11 50" src="https://github.com/user-attachments/assets/6d8aa72e-71f0-4488-a5e5-6e6cb5d49c6b">
+<img width="753" alt="Screenshot 2024-10-14 at 18 14 06" src="https://github.com/user-attachments/assets/9afcaf44-0f1d-4b70-a5ff-99d40d9b739b">
+<img width="538" alt="Screenshot 2024-10-14 at 18 32 39" src="https://github.com/user-attachments/assets/5ffc9dcd-e212-41c7-a547-c1b30cdef244">
+<img width="804" alt="Screenshot 2024-10-12 at 13 46 49" src="https://github.com/user-attachments/assets/535c8be3-57e3-442d-b510-92ca92ecfe40">
 
-and change it command
 
-<img width="659" alt="Screenshot 2024-10-12 at 14 11 58" src="https://github.com/user-attachments/assets/4bfeb8c2-5ca8-45ac-abfc-df9e30bc3ba0">
-
-it will then save in EEPROM
 
