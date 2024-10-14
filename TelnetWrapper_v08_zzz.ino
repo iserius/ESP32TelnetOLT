@@ -30,7 +30,7 @@
 #include <ArduinoOTA.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "RAHASIA";
+const char* ssid = "yourSSIDnam";
 const char* password = "";
 
 WebServer server(80);
@@ -494,7 +494,7 @@ void handleRoot() {
 <div id="loginForm" style="display: flex; gap: 10px; margin-bottom: 10px;">
   <input type="text" id="serverAddress" placeholder="Server Address" value="10.10.10.3" style="flex-grow: 1;">
   <input type="text" id="username" placeholder="Username" value="admin" style="flex-grow: 1;">
-  <input type="password" id="password" placeholder="Password" value="chArlize24" style="flex-grow: 1;">
+  <input type="password" id="password" placeholder="Password" value="Your_telnet_server_password" style="flex-grow: 1;">
   <button id="autoLoginBtn" class="preset-button">Login</button>
   <button id="disconnectBtn" class="preset-button">Disconnect</button>
 </div>
