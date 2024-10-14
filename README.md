@@ -5,6 +5,7 @@ its just a Telnet CLient using ESP32 in a simple Terminal Like Web browser
 with 8 custom preset command that can save in EEPROM and editable auto script for ONU activation
 
 default login username : adnim password : minda
+default OTA password : adnim
 
   ESP32 telnet wraper for OLTC320  12 october 2024
 	  
