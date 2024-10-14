@@ -1,14 +1,16 @@
 # ESP32TelnetRelay
-ESP32 Telnet Client to check and control C320 ZTE OLT
+ESP32 Telnet Client to check and control C320 ZTE OLT and config ONU 
 
 its just a Telnet CLient using ESP32 in a simple Terminal Like Web browser
-with 8 custom preset command that can save in EEPROM
+with 8 custom preset command that can save in EEPROM and editable auto script for ONU activation
+
+default login username : adnim password : minda
 
   ESP32 telnet wraper for OLTC320  12 october 2024
 	  
       - v0.5  - add OTA function
       - v0.6  - added status bar header
-      - v0.7  - add EEPROM save function
+      - v0.7  - add EEPROM button save function
       - v0.8  - add ONU config script
 		- add editable auto config script
 		- fix long value result
