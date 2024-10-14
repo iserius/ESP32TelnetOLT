@@ -1,10 +1,12 @@
 # ESP32 Telnet to OLT Relay
 ESP32 Telnet Client to check and control C320 ZTE OLT and config ONU 
-
-its just a Telnet CLient using ESP32 in a simple Terminal Like Web browser
-with 8 custom preset command that can save in EEPROM and editable auto script for ONU activation
+quick replacement for AutoTelnet PC program, its just a Telnet CLient
+using ESP32 in a simple Terminal Like Web browser with 8 custom preset
+command that can save in EEPROM and have editable auto script for 
+ONU activation
 
 default login username : adnim password : minda
+
 default OTA password : adnim
 
   ESP32 telnet ralay for OLTC320  
