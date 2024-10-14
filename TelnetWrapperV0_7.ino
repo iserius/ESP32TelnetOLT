@@ -14,7 +14,7 @@
 #include <NetworkUdp.h>
 #include <ArduinoOTA.h>
 
-const char* ssid = "RAHASIA";
+const char* ssid = "yourWIFIname";
 const char* password = "";
 
 WebServer server(80);
