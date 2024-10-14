@@ -29,9 +29,11 @@ default login username : adnim password : minda
 double click custom preset button to change its Name
 
 <img width="804" alt="Screenshot 2024-10-12 at 13 46 49" src="https://github.com/user-attachments/assets/535c8be3-57e3-442d-b510-92ca92ecfe40">
+===================================================================================================
 
 <img width="753" alt="Screenshot 2024-10-14 at 18 14 06" src="https://github.com/user-attachments/assets/9afcaf44-0f1d-4b70-a5ff-99d40d9b739b">
 
+===================================================================================================
 <img width="538" alt="Screenshot 2024-10-14 at 18 32 39" src="https://github.com/user-attachments/assets/5ffc9dcd-e212-41c7-a547-c1b30cdef244">
 
 
