@@ -7,8 +7,10 @@ with 8 custom preset command that can save in EEPROM and editable auto script fo
 default login username : adnim password : minda
 default OTA password : adnim
 
-  ESP32 telnet wraper for OLTC320  12 october 2024
-	  
+  ESP32 telnet ralay for OLTC320  
+  
+  12 october 2024
+
       - v0.5  - add OTA function
       - v0.6  - added status bar header
       - v0.7  - add EEPROM button save function
