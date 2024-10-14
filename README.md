@@ -1,4 +1,4 @@
-# ESP32TelnetRelay
+# ESP32 Telnet to OLT Relay
 ESP32 Telnet Client to check and control C320 ZTE OLT and config ONU 
 
 its just a Telnet CLient using ESP32 in a simple Terminal Like Web browser
